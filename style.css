@@ -38,7 +38,7 @@ body {
     max-width: 24rem;
     height: 32.625rem;
     width: 100%;
-    border-radius: 15px;
+    border-radius: 1rem;
     display: flex;
     flex-direction: column;
     padding: 1.5rem;
@@ -49,7 +49,7 @@ body {
 }
 
 .card-img {
-    border-radius: 15px;
+    border-radius: 1rem;
     width: 100%;
 }
 
@@ -86,7 +86,7 @@ body {
 
 .userpic {
     aspect-ratio: 1/1;
-    height: 32px;
+    height: 2rem;
 }
 
 .author {
